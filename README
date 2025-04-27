@@ -1,0 +1,7 @@
+This project was from CS230 from SNHU. It was about a client, The Gaming Room, and their game, Draw it or Lose it. They were looking to develop a server and a client for their existing game. 
+The game pulled from a list of existing drawings that would slowly fade in and players would guess the drawing. They requested to have individual games and individual teams.
+While developing this documentation I think I did a good job explaining the pros and cons of each platform. 
+I think the UML diagrams were extremely helpful developing code.
+If I could revise my document, I think I would not harp so hard on unity, and explore a bunch of different platforms.
+Since they were asking for a client for a game, I tried to keep that in mind. I recommended platforms that would facilitate a games natural growth in sales. Solving a problem from the user is the whole reason we make code. They are the ones paying the bills.
+To design software I listen to the problem, I think about different ways to solve that problem, and then I design a prototype. I think in the future I would like to solve the problem in more than one way and try to implement them in a modular way to see what works best.
